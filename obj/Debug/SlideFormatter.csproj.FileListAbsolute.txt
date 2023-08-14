@@ -1,0 +1,14 @@
+C:\Users\Yahya Al-Eryani\source\repos\SlideFormatter\SlideFormatter\bin\Debug\SlideFormatter.exe.config
+C:\Users\Yahya Al-Eryani\source\repos\SlideFormatter\SlideFormatter\bin\Debug\SlideFormatter.exe
+C:\Users\Yahya Al-Eryani\source\repos\SlideFormatter\SlideFormatter\bin\Debug\SlideFormatter.pdb
+C:\Users\Yahya Al-Eryani\source\repos\SlideFormatter\SlideFormatter\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Yahya Al-Eryani\source\repos\SlideFormatter\SlideFormatter\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Yahya Al-Eryani\source\repos\SlideFormatter\SlideFormatter\obj\Debug\SlideFormatter.csproj.AssemblyReference.cache
+C:\Users\Yahya Al-Eryani\source\repos\SlideFormatter\SlideFormatter\obj\Debug\SlideFormatter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yahya Al-Eryani\source\repos\SlideFormatter\SlideFormatter\obj\Debug\SlideFormatter.SlideFormatterForm.resources
+C:\Users\Yahya Al-Eryani\source\repos\SlideFormatter\SlideFormatter\obj\Debug\SlideFormatter.Properties.Resources.resources
+C:\Users\Yahya Al-Eryani\source\repos\SlideFormatter\SlideFormatter\obj\Debug\SlideFormatter.csproj.GenerateResource.cache
+C:\Users\Yahya Al-Eryani\source\repos\SlideFormatter\SlideFormatter\obj\Debug\SlideFormatter.csproj.CoreCompileInputs.cache
+C:\Users\Yahya Al-Eryani\source\repos\SlideFormatter\SlideFormatter\obj\Debug\SlideFormatter.csproj.CopyComplete
+C:\Users\Yahya Al-Eryani\source\repos\SlideFormatter\SlideFormatter\obj\Debug\SlideFormatter.exe
+C:\Users\Yahya Al-Eryani\source\repos\SlideFormatter\SlideFormatter\obj\Debug\SlideFormatter.pdb

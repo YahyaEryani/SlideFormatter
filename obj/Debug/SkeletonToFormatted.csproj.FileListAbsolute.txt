@@ -1,0 +1,14 @@
+C:\Users\Yahya Al-Eryani\source\repos\SkeletonToFormatted\SkeletonToFormatted\bin\Debug\SkeletonToFormatted.exe.config
+C:\Users\Yahya Al-Eryani\source\repos\SkeletonToFormatted\SkeletonToFormatted\bin\Debug\SkeletonToFormatted.exe
+C:\Users\Yahya Al-Eryani\source\repos\SkeletonToFormatted\SkeletonToFormatted\bin\Debug\SkeletonToFormatted.pdb
+C:\Users\Yahya Al-Eryani\source\repos\SkeletonToFormatted\SkeletonToFormatted\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Yahya Al-Eryani\source\repos\SkeletonToFormatted\SkeletonToFormatted\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Yahya Al-Eryani\source\repos\SkeletonToFormatted\SkeletonToFormatted\obj\Debug\SkeletonToFormatted.csproj.AssemblyReference.cache
+C:\Users\Yahya Al-Eryani\source\repos\SkeletonToFormatted\SkeletonToFormatted\obj\Debug\SkeletonToFormatted.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yahya Al-Eryani\source\repos\SkeletonToFormatted\SkeletonToFormatted\obj\Debug\SkeletonToFormatted.Form1.resources
+C:\Users\Yahya Al-Eryani\source\repos\SkeletonToFormatted\SkeletonToFormatted\obj\Debug\SkeletonToFormatted.Properties.Resources.resources
+C:\Users\Yahya Al-Eryani\source\repos\SkeletonToFormatted\SkeletonToFormatted\obj\Debug\SkeletonToFormatted.csproj.GenerateResource.cache
+C:\Users\Yahya Al-Eryani\source\repos\SkeletonToFormatted\SkeletonToFormatted\obj\Debug\SkeletonToFormatted.csproj.CoreCompileInputs.cache
+C:\Users\Yahya Al-Eryani\source\repos\SkeletonToFormatted\SkeletonToFormatted\obj\Debug\SkeletonToFormatted.csproj.CopyComplete
+C:\Users\Yahya Al-Eryani\source\repos\SkeletonToFormatted\SkeletonToFormatted\obj\Debug\SkeletonToFormatted.exe
+C:\Users\Yahya Al-Eryani\source\repos\SkeletonToFormatted\SkeletonToFormatted\obj\Debug\SkeletonToFormatted.pdb
