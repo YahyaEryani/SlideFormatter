@@ -119,3 +119,4 @@
 8/11/2023 7:25:40 PM: Failed to retrieve shape properties for the given textbox.
 8/11/2023 7:25:40 PM: Failed to retrieve shape properties for the given textbox.
 8/11/2023 7:25:40 PM: Failed to retrieve shape properties for the given textbox.
+8/14/2023 10:48:08 AM: The process cannot access the file 'C:\Users\Yahya Al-Eryani\Downloads\auxi C# Interview.pptx' because it is being used by another process.
